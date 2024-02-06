@@ -1,7 +1,9 @@
 # Expenses_Tracker_Backend
 
 ---
+## A project by [Salma Sheik](https://github.com/SalmaRepo), [Thulasi Sushma](https://github.com/ThulasiSushma), [Barbara Papa](https://github.com/BarbaraPapa) and [Diego LLerena](https://github.com/LLDieg).
 
+---
 ### Built With
 
 * [Node.js](https://nodejs.org/en/)
