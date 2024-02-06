@@ -16,5 +16,5 @@
 3. run the front end `npm start`
 ---
 ### To run the client:
-https://github.com/SalmaRepo/Expenses_Tracker_Frontend
+https://github.com/BarbaraPapa/Expensify-Expenses_Tracker_Frontend
 
